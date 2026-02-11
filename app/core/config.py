@@ -47,7 +47,7 @@ class Config:
         directories: List[Path] = [
             cls.LOG_PATH, cls.DATA_PATH,
             cls.RAWDATA_PATH, cls.METADATA_PATH, cls.PIPELINE_PATH,
-            cls.IMPORT_PATH, cls.MODIFY_PATH, cls.EXPORT_PATH,
+            cls.IMPORT_PATH, cls.MODIFY_PATH, cls.EXPORT_PATH, cls.MARKDOWN_PATH,
         ]
 
         for directory in directories:
