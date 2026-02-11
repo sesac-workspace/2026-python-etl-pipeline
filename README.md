@@ -103,4 +103,4 @@ python -m main --input_json "/input/your/json/metadata"
 ## 작성자
 - **Name**: Kim Hyunsik
 - **GitHub**: [main328](https://github.com/main328)
-- **Contact**: [E-mail](kimhyunsik810@gmail.com)
+- **Contact**: [E-mail](mailto:kimhyunsik810@gmail.com)
